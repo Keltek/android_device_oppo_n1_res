@@ -8,8 +8,8 @@
     <string name="touchpad_enable_summary">Panel táctil trasero para navegar por el teléfono</string>
     <string name="touchpad_long_press_title">Pulsación prolongada para lanzar la cámara</string>
     <string name="touchpad_long_press_summary">Una pulsación prolongada en el panel táctil lanzará la aplicación Cámara</string>
-    <string name="touchpad_double_tap_title">Doble toque para capturar imagen</string>
-    <string name="touchpad_double_tap_summary">Cuando este en la aplicación Cámara, un doble toque realizará una captura de imagen</string>
+    <string name="touchpad_double_tap_title">Pulsación doble para capturar foto</string>
+    <string name="touchpad_double_tap_summary">Cuando este en la aplicación Cámara, una doble pulsación capturará una foto</string>
 
     <!-- Gesture shortcuts -->
     <string name="screen_gestures_panel_title">Atajos gestuales</string>
@@ -33,5 +33,18 @@
 
     <string name="oclick_connect_string">Conectar</string>
     <string name="oclick_disconnect_string">Desconectar</string>
+    <string name="oclick_dialog_title">O-Click</string>
     <string name="oclick_dialog_connecting_message">Intentando vincular</string>
+
+    <string name="oclick_take_snapshot_title">Foto remota</string>
+    <string name="oclick_take_snapshot_summary">Realiza una simple pulsación para tomar una foto</string>
+    <string name="oclick_find_my_phone_title">Localizar teléfono</string>
+    <string name="oclick_find_my_phone_summary">Realiza una pulsación doble para localizar el teléfono</string>
+    <string name="oclick_fence_title">Proximidad</string>
+    <string name="oclick_fence_summary">Avisar cuando el teléfono no se encuentre cerca</string>
+    <string name="oclick_disconnect_alert_title">Fuera de alcance</string>
+    <string name="oclick_disconnect_alert_summary">Avisar cuando el teléfono se encuentre fuera de alcance</string>
+
+    <string name="alert_category_title">Avisos</string>
+    <string name="action_category_title">Acciones</string>
 </resources>
